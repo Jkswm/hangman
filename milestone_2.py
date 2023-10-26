@@ -1,2 +1,2 @@
-word_list = [grapes,strawberries,apples,pears,kiwis]
+word_list = ["grapes","strawberries","apples","pears","kiwis"]
 print(word_list)
