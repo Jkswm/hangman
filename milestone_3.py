@@ -12,7 +12,7 @@ def ask_for_input(word):
         guess = input("Guess a letter: ").lower()
         if len(guess) == 1 and guess.isalpha():
             if check_guess(guess,word):
-                return True
+                print("Yes")
         else:
             print("Invalid letter. Please, enter a single alphabetical character.")
 
