@@ -30,6 +30,29 @@ class Hangman:
 
         self.list_of_guesses.append(letter)
 
+
+def check_guess(self, guess):
+    if guess in self.word:
+        print("You guessed", guess)
+        print("Good guess!")
+        for i in range(len(self.word)):
+            if self.word[i] == guess:
+                self.word_guessed[i] = guess
+                self.num_letters -= 1
+    else:
+        print(f"Sorry, '{guess}' is not in the word. Try again.")
+
+    
+def ask_for_input():
+        while True:
+            guess = input("Guess a letter: ").lower()
+        if len(guess) == 1 and guess.isalpha():
+            if check_guess(guess,word):
+                print(f"Good guess! {guess} is in the word.")
+            elif check_guess(guess, word):
+                   list_of_guesses.append(guess)
+            else:
+                print("Invalid letter. Please, enter a single alphabetical character.")
         
 # Create an instance of the Hangman class
 list = ["grapes", "strawberries", "apples", "pears", "kiwis"]
