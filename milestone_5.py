@@ -80,9 +80,6 @@ print("random word:", hangman_instance.random_word)
 print("")
 hangman_instance.ask_for_input()
 
-
-
-
 def play_game(word_list):
     num_lives = 5
     game = Hangman(word_list, num_lives)
