@@ -45,6 +45,8 @@ You win the game if you guess the word without running out of number of lives.
 
 If you run out of lives you lose the game.
 
+Please see the play_game function that is the entry point for running the Hangman game attached below.
+
 (![Play_game code](def%20(play_game).png)
 )
 
