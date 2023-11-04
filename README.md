@@ -26,11 +26,11 @@ Follow these steps to install and run the Hangman game:
 2. Make sure you have Python (>=3.6) installed on your system. You can download Python from the official website.
 
 3. Run the game by executing the following command:
-```bash
 milestone_5.py
 
 
-## Usage Instructions 
+## Usage Instructions
+ 
 
 When you run the game, you'll be prompted to guess the letters to reveal the hidden word.
 
