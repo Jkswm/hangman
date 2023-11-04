@@ -53,7 +53,9 @@ If you run out of lives you lose the game.
 The project files are organized as follows:
 
 milestone_5.py: The Python script that contains the Hangman game code.
+
 LICENSE: The project's license file (MIT License).
+
 README.md: The documentation file you are currently reading.
 
 ## License
