@@ -45,7 +45,7 @@ You win the game if you guess the word without running out of number of lives.
 
 If you run out of lives you lose the game.
 
-![Play_game code](/"C:\Users\justi\OneDrive\Pictures\def (play_game).png")
+![Play_game code](C:\Users\justi\OneDrive\Pictures\def%20(play_game).png)
 
 ## File Structure 
 The project files are organized as follows:
