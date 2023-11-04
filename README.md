@@ -21,15 +21,15 @@ Follow these steps to install and run the Hangman game:
 
    ```bash
    git clone https://github.com/Jkswm/hangman/blob/main/milestone_5.py
-    cd hangman-game
-   python milestone_5.py
+  
 
 2. Make sure you have Python (>=3.6) installed on your system. You can download Python from the official website.
     ```bash
     cd hangman-game
 
 4. Run the game by executing the following command: python milestone_5.py
-
+   ```bash
+    python milestone_5.py
 
 
 ## Usage Instructions
