@@ -20,17 +20,20 @@ Follow these steps to install and run the Hangman game:
 1. Clone the repository to your local machine:
 
    ```bash
-  $ git clone https://github.com/Jkswm/hangman/blob/main/milestone_5.py
-
-  $ cd hangman-game
+   git clone https://github.com/Jkswm/hangman/blob/main/milestone_5.py
+  
 
 2. Make sure you have Python (>=3.6) installed on your system. You can download Python from the official website.
+    ```bash
+    cd hangman-game
 
-3. Run the game by executing the following command:
- $ python milestone_5.py
+4. Run the game by executing the following command: python milestone_5.py
+   ```bash
+    python milestone_5.py
 
 
 ## Usage Instructions
+ 
 
 When you run the game, you'll be prompted to guess the letters to reveal the hidden word.
 
@@ -42,7 +45,7 @@ You win the game if you guess the word without running out of number of lives.
 
 If you run out of lives you lose the game.
 
-![Play_game code](/"C:\Users\justi\OneDrive\Pictures\def (play_game).png")
+![Play_game code](C:\Users\justi\OneDrive\Pictures\def%20(play_game).png)
 
 ## File Structure 
 The project files are organized as follows:
