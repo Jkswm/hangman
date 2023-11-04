@@ -19,8 +19,7 @@ Follow these steps to install and run the Hangman game:
 
 1. Clone the repository to your local machine:
 
-   ```bash
-   git clone https://github.com/Jkswm/hangman/blob/main/milestone_5.py
+   ```bash git clone https://github.com/Jkswm/hangman/blob/main/milestone_5.py
 
   cd hangman-game
 
